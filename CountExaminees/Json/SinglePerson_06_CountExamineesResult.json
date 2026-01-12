@@ -1,0 +1,15 @@
+[
+    {'box': [
+            346,
+            141,
+            92,
+            114
+        ], 'confidence': np.float64(0.9993433356285095), 'keypoints': {'nose': [np.int64(403), np.int64(211)
+            ], 'mouth_right': [np.int64(420), np.int64(229)
+            ], 'right_eye': [np.int64(419), np.int64(188)
+            ], 'left_eye': [np.int64(378), np.int64(190)
+            ], 'mouth_left': [np.int64(381), np.int64(229)
+            ]
+        }
+    }
+]

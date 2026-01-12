@@ -1,0 +1,28 @@
+[
+    {'box': [
+            336,
+            159,
+            83,
+            106
+        ], 'confidence': np.float64(0.9999668598175049), 'keypoints': {'nose': [np.int64(383), np.int64(222)
+            ], 'mouth_right': [np.int64(397), np.int64(240)
+            ], 'right_eye': [np.int64(402), np.int64(201)
+            ], 'left_eye': [np.int64(365), np.int64(198)
+            ], 'mouth_left': [np.int64(363), np.int64(237)
+            ]
+        }
+    },
+    {'box': [
+            607,
+            122,
+            32,
+            49
+        ], 'confidence': np.float64(0.9865807294845581), 'keypoints': {'nose': [np.int64(628), np.int64(151)
+            ], 'mouth_right': [np.int64(634), np.int64(161)
+            ], 'right_eye': [np.int64(636), np.int64(141)
+            ], 'left_eye': [np.int64(619), np.int64(141)
+            ], 'mouth_left': [np.int64(620), np.int64(160)
+            ]
+        }
+    }
+]
